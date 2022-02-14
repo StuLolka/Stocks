@@ -1,0 +1,13 @@
+/* Stocks */
+"Stocks" = "Stocks";
+
+/* Info */
+"Info" = "Info";
+
+"infoLabel" = "1 - company name\n2 - current price\n3 - last price change";
+
+/* Alert */
+"title" = "Something went wrong";
+"subtitle" = "Try to reload";
+"buttonTitle" = "Reload";
+
